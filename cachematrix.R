@@ -34,3 +34,5 @@ cacheSolve <- function(x, ...) {
         x$setinverse(i)
         i
 }
+
+## source: https://class.coursera.org/rprog-007/human_grading/view/courses/972580/assessments/3/submissions
